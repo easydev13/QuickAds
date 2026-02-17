@@ -14,14 +14,21 @@
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="#-why-choose-us">Why Choose</a> •
-  <a href="#-quick-start">Quick Start</a> •
-  <a href="#-ad-formats">Ad Formats</a> •
-  <a href="#-showcase">Showcase</a> •
-  <a href="#-future-roadmap">Future Roadmap</a> •
-  <a href="#-community">Community</a>
-</p>
+[//]: # (<p align="center">)
+
+[//]: # (  <a href="#-why-choose-us">Why Choose</a> •)
+
+[//]: # (  <a href="#-quick-start">Quick Start</a> •)
+
+[//]: # (  <a href="#-ad-formats">Ad Formats</a> •)
+
+[//]: # (  <a href="#-showcase">Showcase</a> •)
+
+[//]: # (  <a href="#-future-roadmap">Future Roadmap</a> •)
+
+[//]: # (  <a href="#-community">Community</a>)
+
+[//]: # (</p>)
 
 <h2>🚀 The Ultimate AdMob Wrapper for Android Developers</h2>
 <p><i>Integrate AdMob in minutes, not hours. One SDK, infinite monetization possibilities.</i></p>
@@ -29,12 +36,18 @@
 <br/>
 
 <!-- Stats -->
-<p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/EasyAds?style=social" />
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/EasyAds?style=social" />
-  <img src="https://img.shields.io/github/watchers/YOUR_USERNAME/EasyAds?style=social" />
-  <img src="https://img.shields.io/github/issues/YOUR_USERNAME/EasyAds?style=social" />
-</p>
+
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/EasyAds?style=social" />)
+
+[//]: # (  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/EasyAds?style=social" />)
+
+[//]: # (  <img src="https://img.shields.io/github/watchers/YOUR_USERNAME/EasyAds?style=social" />)
+
+[//]: # (  <img src="https://img.shields.io/github/issues/YOUR_USERNAME/EasyAds?style=social" />)
+
+[//]: # (</p>)
 
 </div>
 
@@ -123,7 +136,7 @@ Add these dependencies to your **app-level** `build.gradle`:
 ```gradle
 dependencies {
     // EasyToUse AdMob SDK
-    implementation "io.github.easydev13:quickads-admob:1.0.0"
+    implementation "io.github.easydev13:quickads-admob:1.0.1"
 }
 ```
 
@@ -176,7 +189,7 @@ bannerView.load(
 
 ### 🎉 That's it! You're ready to monetize! 🎉
 
-### 🎥 [Watch Video Tutorial](#) • 📖 [Read Full Docs](#) • 💬 [Get Help](#)
+[//]: # (### 🎥 [Watch Video Tutorial]&#40;#&#41; • 📖 [Read Full Docs]&#40;#&#41; • 💬 [Get Help]&#40;#&#41;)
 
 </div>
 
@@ -1113,75 +1126,119 @@ interface EasyNativeAdListener {
 
 <br/>
 
----
+[//]: # (---)
 
-<div align="center">
+[//]: # ()
+[//]: # (<div align="center">)
 
-# 🎨 Showcase
+[//]: # ()
+[//]: # (# 🎨 Showcase)
 
-### Real Apps Built with EasyToUse AdMob SDK
+[//]: # ()
+[//]: # (### Real Apps Built with EasyToUse AdMob SDK)
 
-</div>
+[//]: # ()
+[//]: # (</div>)
 
-<br/>
+[//]: # ()
+[//]: # (<br/>)
 
-<div align="center">
+[//]: # ()
+[//]: # (<div align="center">)
 
-<table>
-<tr>
-<td align="center" width="100%">
+[//]: # ()
+[//]: # (<table>)
 
-<img src="https://play-lh.googleusercontent.com/9XKD5S7rwQ6FiPXSyp9SzLXfIue88ntf9sJ9K2Iy7g6B8c7q8J3RzR5c8xjhBN5YHg=s180-rw" width="120" />
+[//]: # (<tr>)
 
-### 📱 **iLoveFile - File Manager & Explorer**
+[//]: # (<td align="center" width="100%">)
 
-*Powerful file management with seamless ad integration*
+[//]: # ()
+[//]: # (<img src="https://play-lh.googleusercontent.com/9XKD5S7rwQ6FiPXSyp9SzLXfIue88ntf9sJ9K2Iy7g6B8c7q8J3RzR5c8xjhBN5YHg=s180-rw" width="120" />)
 
-<p>
-<img src="https://img.shields.io/badge/Category-Productivity-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Rating-★★★★☆%204.2-yellow?style=flat-square" />
-<img src="https://img.shields.io/badge/Downloads-10K+-green?style=flat-square" />
-<img src="https://img.shields.io/badge/Powered%20by-EasyAds-blueviolet?style=flat-square" />
-</p>
+[//]: # ()
+[//]: # (### 📱 **iLoveFile - File Manager & Explorer**)
 
-**Features:**
-- 📂 Advanced file browsing and management
-- ☁️ Cloud storage integration
-- 🎵 Built-in media player
-- 🎯 **Seamless native ad integration** using EasyAds SDK
-- 💰 **3x revenue increase** with optimized ad placement
+[//]: # ()
+[//]: # (*Powerful file management with seamless ad integration*)
 
-<br/>
+[//]: # ()
+[//]: # (<p>)
 
-<a href="https://play.google.com/store/apps/details?id=com.goldensuccor.ilovefile">
-  <img src="https://img.shields.io/badge/Download%20on-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
-</a>
+[//]: # (<img src="https://img.shields.io/badge/Category-Productivity-blue?style=flat-square" />)
 
-<br/>
-<br/>
+[//]: # (<img src="https://img.shields.io/badge/Rating-★★★★☆%204.2-yellow?style=flat-square" />)
 
-> *"EasyAds SDK transformed our monetization strategy. Native ads blend perfectly with our file list, and the Pro version support works flawlessly!"*  
-> **— iLoveFile Development Team**
+[//]: # (<img src="https://img.shields.io/badge/Downloads-10K+-green?style=flat-square" />)
 
-</td>
-</tr>
-</table>
+[//]: # (<img src="https://img.shields.io/badge/Powered%20by-EasyAds-blueviolet?style=flat-square" />)
 
-<br/>
+[//]: # (</p>)
 
-### 🚀 Want Your App Featured Here?
+[//]: # ()
+[//]: # (**Features:**)
 
-We'd love to showcase apps built with EasyAds SDK! 
+[//]: # (- 📂 Advanced file browsing and management)
 
-<a href="https://github.com/parthivz1/EasyAds/issues/new?template=showcase-submission.md">
-  <img src="https://img.shields.io/badge/Submit%20Your%20App-4CAF50?style=for-the-badge&logo=android&logoColor=white" />
-</a>
+[//]: # (- ☁️ Cloud storage integration)
 
-</div>
+[//]: # (- 🎵 Built-in media player)
 
-<br/>
+[//]: # (- 🎯 **Seamless native ad integration** using EasyAds SDK)
 
----
+[//]: # (- 💰 **3x revenue increase** with optimized ad placement)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (<a href="https://play.google.com/store/apps/details?id=com.goldensuccor.ilovefile">)
+
+[//]: # (  <img src="https://img.shields.io/badge/Download%20on-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />)
+
+[//]: # (</a>)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (> *"EasyAds SDK transformed our monetization strategy. Native ads blend perfectly with our file list, and the Pro version support works flawlessly!"*  )
+
+[//]: # (> **— iLoveFile Development Team**)
+
+[//]: # ()
+[//]: # (</td>)
+
+[//]: # (</tr>)
+
+[//]: # (</table>)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (### 🚀 Want Your App Featured Here?)
+
+[//]: # ()
+[//]: # (We'd love to showcase apps built with EasyAds SDK! )
+
+[//]: # ()
+[//]: # (<a href="https://github.com/parthivz1/EasyAds/issues/new?template=showcase-submission.md">)
+
+[//]: # (  <img src="https://img.shields.io/badge/Submit%20Your%20App-4CAF50?style=for-the-badge&logo=android&logoColor=white" />)
+
+[//]: # (</a>)
+
+[//]: # ()
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (---)
 
 <div align="center">
 
@@ -1254,17 +1311,18 @@ Multi-network mediation:
 
 <br/>
 
-<div align="center">
+[//]: # (<div align="center">)
 
-### 💡 Have a feature request?
+[//]: # (### 💡 Have a feature request?)
 
-[Submit your idea](https://github.com/parthivz1/EasyAds/discussions/new?category=ideas) and help shape the future of this library!
+[//]: # ()
+[//]: # ([Submit your idea]&#40;https://github.com/parthivz1/EasyAds/discussions/new?category=ideas&#41; and help shape the future of this library!)
 
-</div>
+[//]: # (</div>)
 
-<br/>
+[//]: # (<br/>)
 
----
+[//]: # (---)
 
 <div align="center">
 
@@ -1301,9 +1359,9 @@ Multi-network mediation:
 
 **Get Help & Connect:**
 
-<a href="https://stackoverflow.com/questions/tagged/admob"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+[//]: # (<a href="https://stackoverflow.com/questions/tagged/admob"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>)
 
-<a href="https://github.com/parthivz1/EasyAds/discussions"><img src="https://img.shields.io/badge/GitHub%20Discussions-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+[//]: # (<a href="https://github.com/parthivz1/EasyAds/discussions"><img src="https://img.shields.io/badge/GitHub%20Discussions-181717?style=for-the-badge&logo=github&logoColor=white" /></a>)
 
 <br/>
 
@@ -1322,9 +1380,9 @@ Multi-network mediation:
 
 **Need Help?**
 
-<a href="https://github.com/parthivz1/EasyAds/issues/new?template=bug_report.md"><img src="https://img.shields.io/badge/Report%20Bug-red?style=for-the-badge&logo=github&logoColor=white" /></a>
+[//]: # (<a href="https://github.com/parthivz1/EasyAds/issues/new?template=bug_report.md"><img src="https://img.shields.io/badge/Report%20Bug-red?style=for-the-badge&logo=github&logoColor=white" /></a>)
 
-<a href="https://github.com/parthivz1/EasyAds/issues/new?template=feature_request.md"><img src="https://img.shields.io/badge/Request%20Feature-blue?style=for-the-badge&logo=github&logoColor=white" /></a>
+[//]: # (<a href="https://github.com/parthivz1/EasyAds/issues/new?template=feature_request.md"><img src="https://img.shields.io/badge/Request%20Feature-blue?style=for-the-badge&logo=github&logoColor=white" /></a>)
 
 <br/>
 
@@ -1342,44 +1400,66 @@ Multi-network mediation:
 
 <br/>
 
----
+[//]: # (---)
 
-<div align="center">
+[//]: # ()
+[//]: # (<div align="center">)
 
-# 🤝 Contributing
+[//]: # ()
+[//]: # (# 🤝 Contributing)
 
-</div>
+[//]: # ()
+[//]: # (</div>)
 
-<br/>
+[//]: # ()
+[//]: # (<br/>)
 
-<div align="center">
+[//]: # ()
+[//]: # (<div align="center">)
 
-### 🚧 Contributions Currently Not Available
+[//]: # ()
+[//]: # (### 🚧 Contributions Currently Not Available)
 
-We're currently setting up our contribution guidelines and reviewing process. 
+[//]: # ()
+[//]: # (We're currently setting up our contribution guidelines and reviewing process. )
 
-**Coming Soon:**
-- ✅ Contribution guidelines
-- ✅ Code of conduct
-- ✅ Development setup guide
-- ✅ Pull request template
-- ✅ Issue templates
+[//]: # ()
+[//]: # (**Coming Soon:**)
 
-**Want to contribute when we open up?**
+[//]: # (- ✅ Contribution guidelines)
 
-⭐ Star this repo to stay updated  
-👀 Watch for announcements  
-💬 Join [GitHub Discussions](https://github.com/parthivz1/EasyAds/discussions)
+[//]: # (- ✅ Code of conduct)
 
-<br/>
+[//]: # (- ✅ Development setup guide)
 
-<img src="https://img.shields.io/badge/Contributions-Coming%20Soon-yellow?style=for-the-badge" />
+[//]: # (- ✅ Pull request template)
 
-</div>
+[//]: # (- ✅ Issue templates)
 
-<br/>
+[//]: # ()
+[//]: # (**Want to contribute when we open up?**)
 
----
+[//]: # ()
+[//]: # (⭐ Star this repo to stay updated  )
+
+[//]: # (👀 Watch for announcements  )
+
+[//]: # (💬 Join [GitHub Discussions]&#40;https://github.com/parthivz1/EasyAds/discussions&#41;)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (<img src="https://img.shields.io/badge/Contributions-Coming%20Soon-yellow?style=for-the-badge" />)
+
+[//]: # ()
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (---)
 
 <div align="center">
 
@@ -1407,65 +1487,95 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-<div align="center">
+[//]: # (<div align="center">)
 
-**TL;DR:** You can freely use, modify, and distribute this library. See [LICENSE](LICENSE) for full details.
+[//]: # (**TL;DR:** You can freely use, modify, and distribute this library. See [LICENSE]&#40;LICENSE&#41; for full details.)
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-# 📞 Contact & Support
-
-<br/>
-
-<p>
-<a href="mailto:support@easyads.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/parthivz1/EasyAds/discussions"><img src="https://img.shields.io/badge/Discussions-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://twitter.com/EasyAdsSDK"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://linkedin.com/company/easyads"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<br/>
-
-### ⭐ If EasyAds helped you, please star this repository!
-
-### 💬 Join Our Community
-
-<a href="https://github.com/parthivz1/EasyAds/discussions">
-  <img src="https://img.shields.io/badge/Join%20Discussions-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/>
-<br/>
-
-### 💖 Support This Project
-
-<a href="https://www.buymeacoffee.com/easyads"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+[//]: # (</div>)
 
 <br/>
 
 ---
 
-<br/>
+<div align="center">
 
-**Made with ❤️ for the Android Developer Community**
+[//]: # ()
+[//]: # (# 📞 Contact & Support)
 
-*Empowering developers to monetize better, one app at a time.*
+[//]: # ()
+[//]: # (<br/>)
 
-<br/>
+[//]: # ()
+[//]: # (<p>)
 
-<p>
-  <img src="https://img.shields.io/github/stars/parthivz1/EasyAds?style=social" />
-  <img src="https://img.shields.io/github/forks/parthivz1/EasyAds?style=social" />
-  <img src="https://img.shields.io/github/watchers/parthivz1/EasyAds?style=social" />
-</p>
+[//]: # (<a href="mailto:support@easyads.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>)
 
-<br/>
+[//]: # (<a href="https://github.com/parthivz1/EasyAds/discussions"><img src="https://img.shields.io/badge/Discussions-181717?style=for-the-badge&logo=github&logoColor=white" /></a>)
+
+[//]: # (<a href="https://twitter.com/EasyAdsSDK"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>)
+
+[//]: # (<a href="https://linkedin.com/company/easyads"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (### ⭐ If EasyAds helped you, please star this repository!)
+
+[//]: # ()
+[//]: # (### 💬 Join Our Community)
+
+[//]: # ()
+[//]: # (<a href="https://github.com/parthivz1/EasyAds/discussions">)
+
+[//]: # (  <img src="https://img.shields.io/badge/Join%20Discussions-4CAF50?style=for-the-badge&logo=github&logoColor=white" />)
+
+[//]: # (</a>)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (### 💖 Support This Project)
+
+[//]: # ()
+[//]: # (<a href="https://www.buymeacoffee.com/easyads"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (---)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (**Made with ❤️ for the Android Developer Community**)
+
+[//]: # ()
+[//]: # (*Empowering developers to monetize better, one app at a time.*)
+
+[//]: # ()
+[//]: # (<br/>)
+
+[//]: # ()
+[//]: # (<p>)
+
+[//]: # (  <img src="https://img.shields.io/github/stars/parthivz1/EasyAds?style=social" />)
+
+[//]: # (  <img src="https://img.shields.io/github/forks/parthivz1/EasyAds?style=social" />)
+
+[//]: # (  <img src="https://img.shields.io/github/watchers/parthivz1/EasyAds?style=social" />)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<br/>)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 

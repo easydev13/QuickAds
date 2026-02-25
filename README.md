@@ -136,7 +136,7 @@ Add these dependencies to your **app-level** `build.gradle`:
 ```gradle
 dependencies {
     // EasyToUse AdMob SDK
-    implementation "io.github.easydev13:quickads-admob:1.0.1"
+    implementation "io.github.easydev13:quickads-admob:1.0.2"
 }
 ```
 
